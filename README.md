@@ -4,12 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Media Informatics Student
 -------------------------
 
-(placeholder, long description)
-
 * 🌍  I'm based in Stuttgart, Germany
 * ✉️  You can contact me at [marceltriebe@hotmail.com](mailto:marceltriebe@hotmail.com)
 * 🚀  I'm currently working on [(MAYBE)](http://(placeholder))
 * 🧠  I'm learning Development with C++
+
+#
+
+🚀 As a passionate student with a burning desire to become a game developer, I'm on a relentless quest to transform my dreams into reality. I'm currently actively seeking internship opportunities to kickstart my career in the gaming industry.
+
+🎮 My journey in game development has equipped me with a strong foundation in programming languages such as C++ and Java, along with hands-on experience in Unreal Engine. I constantly hone my skills through dedicated coursework and certifications.
+
+📚 But I don't stop there! I'm committed to expanding my expertise by delving into various game engines and software development tools. My personal projects range from crafting simple yet captivating games, modding existing ones, to creating diverse software applications.
+
+Let's connect and explore how my dedication, skills, and passion can add value to your team and projects. I'm excited to take the gaming world by storm, one pixel at a time! 🎮🌟 #GameDeveloper #InternshipSeeker #GameDevPassion
+#
 
 ### Skills
 
