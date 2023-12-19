@@ -7,7 +7,7 @@ Media Informatics Student
 * 🌍  I'm based in Stuttgart, Germany
 * ✉️  You can contact me at [marceltriebe@hotmail.com](mailto:marceltriebe@hotmail.com)
 * 🚀  I'm currently working on [DodgeGame](https://github.com/M4rceL7/DodgeGame)
-* 🧠  I'm learning Development with C++
+* 🧠  I'm learning Software Engineering at Stuttgart Media University
 
 #
 
