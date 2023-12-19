@@ -6,12 +6,12 @@ Media Informatics Student
 
 * 🌍  I'm based in Stuttgart, Germany
 * ✉️  You can contact me at [marceltriebe@hotmail.com](mailto:marceltriebe@hotmail.com)
-* 🚀  I'm currently working on [(MAYBE)](http://(placeholder))
+* 🚀  I'm currently working on [DodgeGame](https://github.com/M4rceL7/DodgeGame)
 * 🧠  I'm learning Development with C++
 
 #
 
-🚀 <font size="+2">As a passionate student with a burning desire to become a game developer, I'm on a relentless quest to transform my dreams into reality. I'm currently actively seeking internship opportunities to kickstart my career in the gaming industry.</font>
+🚀 As a passionate student with a burning desire to become a game developer, I'm on a relentless quest to transform my dreams into reality. I'm currently actively seeking internship opportunities to kickstart my career in the gaming industry.
 
 🎮 My journey in game development has equipped me with a strong foundation in programming languages such as C++ and Java, along with hands-on experience in Unreal Engine. I constantly hone my skills through dedicated coursework and certifications.
 
@@ -21,18 +21,34 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 
 #
 
+### 👨‍💻 Previous Projects:
+
+  - <b>[MassDefectFX](https://gitlab.mi.hdm-stuttgart.de/jj050/massdefectfx)</b>
+ 
+#
+
 ### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
+#
+
+### Certificates
+
+  * [Learning C++ ](https://github.com/M4rceL7/Certificates/blob/main/CertificateOfCompletion_Learning%20C.png)
+  * [C++ Essential Training](https://github.com/M4rceL7/Certificates/blob/main/CertificateOfCompletion_C%20Essential%20Training.png)
+  * [C++ Best Practices for Developers](https://github.com/M4rceL7/Certificates/blob/main/CertificateOfCompletion_C%20Best%20Practices%20for%20Developers.png)
+  * [C++ Standard Template Library](https://github.com/M4rceL7/Certificates/blob/main/CertificateOfCompletion_C%20Standard%20Template%20Library.png)
+  * [C++ Templates and the STL](https://github.com/M4rceL7/Certificates/blob/main/CertificateOfCompletion_C%20Templates%20and%20the%20STL.png)
+  * [C++ Development Advanced Concepts Lambda Expressions and Best Practices](https://github.com/M4rceL7/Certificates/blob/main/CertificateOfCompletion_C%20Development%20Advanced%20Concepts%20Lambda%20Expressions%20and%20Best%20Practices.png)
+  * More to come...
+
+  
+#
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/M4rceL7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marcel-triebe-21820323b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/M4rceL7"><img src="https://github-readme-stats.vercel.app/api?username=M4rceL7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="M4rceL7's GitHub stats" /></a>
