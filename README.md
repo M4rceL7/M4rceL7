@@ -22,6 +22,14 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 
 #
 
+### 👨‍💻 Current Projects:
+
+  - <b>[Dodge_Game](https://github.com/M4rceL7/DodgeGame)</b>
+ 
+#
+
+#
+
 ### 👨‍💻 Previous Projects:
 
   - <b>[MassDefectFX](https://gitlab.mi.hdm-stuttgart.de/jj050/massdefectfx)</b>
