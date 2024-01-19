@@ -26,6 +26,7 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 
   - <b>[Dodge_Game](https://github.com/M4rceL7/DodgeGame)</b>
   - <b>[3D_Renderer](https://github.com/M4rceL7/3D_Renderer)</b>
+  - <b>[OP_Item (Minecraft Mod)](https://github.com/M4rceL7/OP_Item)</b>
  
 #
 
