@@ -25,6 +25,7 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 ### 👨‍💻 Current Projects:
 
   - <b>[Dodge_Game](https://github.com/M4rceL7/DodgeGame)</b>
+  - <b>[3D_Renderer](https://github.com/M4rceL7/3D_Renderer)</b>
  
 #
 
@@ -33,7 +34,7 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 ### 👨‍💻 Previous Projects:
 
   - <b>[MassDefectFX](https://gitlab.mi.hdm-stuttgart.de/jj050/massdefectfx)</b>
-  - <b>[Block_Game](https://github.com/M4rceL7/Tetris_Clone)</b>
+  - <b>[Block_Game](https://github.com/M4rceL7/Block_Game)</b>
  
 #
 
