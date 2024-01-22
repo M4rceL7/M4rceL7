@@ -8,7 +8,7 @@ Media Informatics Student
 * ✉️  You can contact me at [marceltriebe@hotmail.com](mailto:marceltriebe@hotmail.com)
 * 🚀  I'm currently working on [DodgeGame](https://github.com/M4rceL7/DodgeGame)
 * 🧠  I'm learning Software Engineering at Stuttgart Media University
-* 🧠  I have knowledge with Frameworks like: SDL, SFML and OpenGL
+* 🧠  I have knowledge with Frameworks like: SDL, SFML and OpenGL and Engines like UE, GameMaker and Godot
 
 #
 
