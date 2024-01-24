@@ -37,6 +37,7 @@ Let's connect and explore how my dedication, skills, and passion can add value t
   - <b>[MassDefectFX](https://github.com/M4rceL7/MassDefect)</b>
   - <b>[Block_Game](https://github.com/M4rceL7/Block_Game)</b>
   - <b>[3D_Renderer](https://github.com/M4rceL7/3D_Renderer)</b>
+  - <b>[Neural_Network](https://github.com/M4rceL7/Simple_Neural_Network)</b>
  
 #
 
