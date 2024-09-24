@@ -24,7 +24,6 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 
 ### 👨‍💻 Current Projects:
 
-  - <b>[Simple_RPG](https://github.com/M4rceL7/Simple_RPG)</b>
   - <b>[Dodge_Game](https://github.com/M4rceL7/DodgeGame)</b>
   - <b>[OP_Item (Minecraft Mod)](https://github.com/M4rceL7/OP_Item)</b>
  
@@ -46,6 +45,7 @@ Let's connect and explore how my dedication, skills, and passion can add value t
  - <b>Creating a Game with Unreal Engine</b>
  - <b>Creating a Game with GameMaker</b>
  - <b>Creating a Game with Godot</b>
+ - <b>Creating a Game with C++ / C#</b>
 
 #
 
