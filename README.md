@@ -6,8 +6,8 @@ Media Informatics Student
 
 * 🌍  I'm based in Stuttgart, Germany
 * ✉️  You can contact me at [marceltriebe@hotmail.com](mailto:marceltriebe@hotmail.com)
-* 🚀  I'm currently working on (Uni Projects)
-* 🧠  I'm learning Software Engineering at Stuttgart Media University
+* 🚀  I'm currently working on Shadow Sprint
+* 🧠  I studied Software Engineering at Stuttgart Media University
 * 🧠  I have knowledge with Frameworks like: SDL, SFML and OpenGL and Engines like UE, GameMaker and Godot
 
 #
@@ -24,8 +24,7 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 
 ### 👨‍💻 Current Projects:
 
-  - <b>[]()</b>
-  - <b>[)]()</b>
+  - <b>[Shadow Sprint]()</b>
  
 #
 
@@ -34,8 +33,8 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 ### 👨‍💻 Previous Projects:
 
   - <b>[MassDefectFX](https://github.com/M4rceL7/MassDefect)</b>
-  - <b>[Block_Game](https://github.com/M4rceL7/Block_Game)</b>
-  - <b>[Neural_Network](https://github.com/M4rceL7/Simple_Neural_Network)</b>
+  - <b>[Project Mothership]()</b>
+  - <b>[Project30]()</b>
  
 #
 
@@ -58,8 +57,8 @@ Let's connect and explore how my dedication, skills, and passion can add value t
 #
 
 ### Game Engines
-<b>Game Maker /</b>
 <b>Unreal Engine /</b>
+<b>Game Maker /</b>
 <b>Godot</b>
 
 #
