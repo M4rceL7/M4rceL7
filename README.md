@@ -12,7 +12,7 @@ Aspiring Game Developer
 
 #
 
-🚀 As a passionate student with a burning desire to become a game developer, I'm on a relentless quest to transform my dreams into reality. I'm currently actively seeking internship opportunities to kickstart my career in the gaming industry.
+🚀 As a passionate developer with a burning desire to become a game developer, I'm on a relentless quest to transform my dreams into reality. I'm currently actively seeking job opportunities to kickstart my career in the gaming industry.
 
 🎮 My journey in game development has equipped me with a strong foundation in programming languages such as C++ and Java, along with hands-on experience in Unreal Engine. I constantly hone my skills through dedicated coursework and certifications.
 
