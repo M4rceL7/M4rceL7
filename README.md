@@ -28,8 +28,6 @@ Let's connect and explore how my dedication, skills, and passion can add value t
  
 #
 
-#
-
 ### 👨‍💻 Previous Projects:
 
   - <b>[MassDefectFX](https://github.com/M4rceL7/MassDefect)</b>
@@ -43,11 +41,6 @@ Let's connect and explore how my dedication, skills, and passion can add value t
   
  
 #
-
-#
-
-### Future Projects:
- - <b>Creating Games with Unreal Engine</b>
 
 #
 
