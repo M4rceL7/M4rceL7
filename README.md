@@ -36,7 +36,7 @@ Let's connect and explore how my dedication, skills, and passion can add value t
   - <b>[Tutorial-Game](https://gitlab.mi.hdm-stuttgart.de/mt111/godot-tutorialgame/-/tree/8d821181988468528082573acaa100e4bfb63c20/)</b>
   - <b>[sltai-food-recognision](https://gitlab.mi.hdm-stuttgart.de/hr044/sltai-food-recognition/-/tree/89f4b386aad8429c06df91f30bdbf34b2acf6841/)</b>
   - <b>[card game: war](https://github.com/M4rceL7/Card_Game-War)</b>
-  - <b>[Studio Merkas Multiplayer Game]()</b>
+  - <b>[Studio Merkas Multiplayer Game]</b>
   - <b>[WFC-Perlin: Bachelor Project"Constraint-Based World Generation: A Comparative Study of Wave Function Collapse"]()</b>
   
  
