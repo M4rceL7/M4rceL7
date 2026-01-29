@@ -20,6 +20,8 @@ Aspiring Game Developer
 
 Let's connect and explore how my dedication, skills, and passion can add value to your team and projects. I'm excited to take the gaming world by storm, one pixel at a time! 🎮🌟 #GameDeveloper #InternshipSeeker #GameDevPassion
 
+CV/Resume Link: https://1drv.ms/b/c/ac6862582f1a0f9a/IQCLOWkAiCp6TZx1W36aE86ZAc4QJbXN1kQ3KZhe4sGvJLc?e=cqk6yN
+
 #
 
 ### 👨‍💻 Current Projects:
