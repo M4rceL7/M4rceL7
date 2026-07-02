@@ -6,7 +6,7 @@ Aspiring Game Developer
 
 * 🌍  I'm based in Stuttgart, Germany
 * ✉️  You can contact me at [marceltriebe@hotmail.com](mailto:marceltriebe@hotmail.com)
-* 🚀  I'm currently working on Shadow Sprint
+* 🚀  I'm currently working on an Unreal Engine game.
 * 🧠  I studied Software Engineering at Stuttgart Media University
 * 🧠  I have knowledge with Frameworks like: SDL, SFML and OpenGL and Engines like UE, GameMaker and Godot
 
@@ -26,12 +26,13 @@ CV/Resume Link: https://1drv.ms/b/c/ac6862582f1a0f9a/IQCLOWkAiCp6TZx1W36aE86ZAc4
 
 ### 👨‍💻 Current Projects:
 
-  - <b>[Shadow Sprint]()</b>
+  - <b>[UE Game]()</b>
  
 #
 
 ### 👨‍💻 Previous Projects:
 
+  - <b>[Dodge Game]((https://github.com/M4rceL7/DodgeGame))</b>
   - <b>[MassDefectFX](https://github.com/M4rceL7/MassDefect)</b>
   - <b>[Project Mothership](https://gitlab.mi.hdm-stuttgart.de/projectmothership/project-mothership/-/tree/4287a79f87ca7c68dd7ff96443c0282fdb417bff/)</b>
   - <b>[Project30]()</b>
