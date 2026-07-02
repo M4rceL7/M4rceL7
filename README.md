@@ -32,7 +32,7 @@ CV/Resume Link: https://1drv.ms/b/c/ac6862582f1a0f9a/IQCLOWkAiCp6TZx1W36aE86ZAc4
 
 ### 👨‍💻 Previous Projects:
 
-  - <b>[Dodge Game]((https://github.com/M4rceL7/DodgeGame))</b>
+  - <b>[Dodge Game](https://github.com/M4rceL7/DodgeGame)</b>
   - <b>[MassDefectFX](https://github.com/M4rceL7/MassDefect)</b>
   - <b>[Project Mothership](https://gitlab.mi.hdm-stuttgart.de/projectmothership/project-mothership/-/tree/4287a79f87ca7c68dd7ff96443c0282fdb417bff/)</b>
   - <b>[Project30]()</b>
