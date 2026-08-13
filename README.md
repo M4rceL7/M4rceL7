@@ -33,7 +33,7 @@ Let's connect and explore how my dedication, skills, and passion can add value t
   - <b>[Dodge Game](https://github.com/M4rceL7/DodgeGame)</b>
   - <b>[MassDefectFX](https://github.com/M4rceL7/MassDefect)</b>
   - <b>[Project Mothership](https://projectmothershipgame.com)</b>
-  - <b>[Project30]()</b>
+  - <b>[Project30](https://github.com/M4rceL7/Project-30)</b>
   - <b>[card game: war](https://github.com/M4rceL7/Card_Game-War)</b>
   - <b>[Studio Merkas Multiplayer Game](https://www.studiomerkas.com/en/projects/dodgeball)</b>
   - <b>[WFC-Perlin: Bachelor Project"Constraint-Based World Generation: A Comparative Study of Wave Function Collapse"]()</b>
