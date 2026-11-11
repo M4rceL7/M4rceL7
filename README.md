@@ -7,8 +7,8 @@ Aspiring Game Developer
 * 🌍  I'm based in Stuttgart, Germany
 * ✉️  You can contact me at [marceltriebe@hotmail.com](mailto:marceltriebe@hotmail.com)
 * 🚀  I'm currently working on an Unreal Engine game.
-* 🧠  I studied Software Engineering at Stuttgart Media University
-* 🧠  I have knowledge with Frameworks like: SDL, SFML and OpenGL and Engines like UE, GameMaker and Godot
+* 🧠  I'm currently a student at Futuregames Warsaw.
+* 🧠  I have knowledge with Frameworks like: SDL, SFML and OpenGL and Engines like Unreal Engine, Unity, GameMaker and Godot.
 
 #
 
